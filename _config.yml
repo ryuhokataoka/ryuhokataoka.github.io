@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ryuho Kataoka / Site Title"
+title                    : "Ryuho Kataoka / Works"
 title_separator          : "-"
 name                     : &name "Ryuho Kataoka"
 description              : &description "personal description"

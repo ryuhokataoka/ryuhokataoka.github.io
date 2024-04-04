@@ -9,12 +9,12 @@ redirect_from:
 
 I am a space physicist, the author of [Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather).  
 
-test 1
+Projects
 ======
 Currently working as:
-. PI of auroraXcosmic project (AJ1007)
-. PI of the AI-emulator project (KAKENHI 24H00277)
-. One of the collaborators of ISS/CALET (KAKENHI)
+* The PI of auroraXcosmic project (AJ1007)
+* The PI of the AI-emulator project (KAKENHI 24H00277)
+* Collaborator of ISS/CALET (KAKENHI)
 
 日本語も行けるのね
 ------

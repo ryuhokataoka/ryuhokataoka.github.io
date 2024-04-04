@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "RK works"
+title: "RK Works"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a space physicist, the author of [Extreme space weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather).  
+I am a space physicist, the author of [Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather).  
 
 test 1
 ======
 Currently working as:
-1. PI of auroraXcosmic project (AJ1007)
-1. PI of the AI-emulator project (KAKENHI KIBAN-A 24H00277)
-1. One of the collaborators of ISS/CALET (KAKENHI KIBAN-S)
+. PI of auroraXcosmic project (AJ1007)
+. PI of the AI-emulator project (KAKENHI 24H00277)
+. One of the collaborators of ISS/CALET (KAKENHI)
 
 日本語も行けるのね
 ------

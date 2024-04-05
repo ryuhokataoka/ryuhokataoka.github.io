@@ -2,7 +2,7 @@
 title: "Cause and Effects of Relativistic Electron Precipitation at CALET onboard ISS (Invited talk)"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-08-26-CALETtalk
+permalink: /talks/2023-08-26-URSI-CALET
 venue: "URSI GASS 2023"
 date: 2023-08-26
 location: "Sapporo, Japan"

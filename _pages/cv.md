@@ -32,15 +32,15 @@ Work experience
 
 * April 2004 to March 2007: JSPS Postoctoral Researcher
   * NICT, NASA/GSFC, and Nagoya University
-  * Duties included: Own research (Space weather)
+  * Duties included: Own research (space weather)
   * Supervisor: Prof. Takashi Kikuchi
 
 * April 2001 to March 2004: JSPS DC1 Researcher
   * Tohoku University
-  * Duties included: Own research (Dayside aurora)
+  * Duties included: Own research (dayside aurora)
   * Supervisor: Prof. Hiroshi Fukunishi
 
-[](
+<!--
 Skills
 ======
 * Skill 1
@@ -49,7 +49,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-)
+-->
 
 Publications
 ======
@@ -57,7 +57,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[](
+<!--
   Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -69,7 +69,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-)
+-->
 
 Service and leadership
 ======

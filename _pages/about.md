@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Modern society has relied heavily on advanced technologies such as satellites and they are vulnerable to changes in space environment. Consequently, the importance of space weather forecasting is growing. As we delve deeper into the near-Earth space environment, its mysteries multiply, fueling increased academic interest. Key research areas include understanding the dynamics of massive solar flares, giant magnetic storms, and their potential impacts on contemporary society. The book [Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather) targets graduate students and researchers seeking a comprehensive overview of the underlying physics, datasets on complex space weather phenomena, historical event case studies, the latest advancements in simulation research, forecasting challenges, and the potential ramifications for future lunar and Mars exploration.
+Modern society has relied heavily on advanced technologies such as satellites and they are vulnerable to changes in space environment. Consequently, the importance of space weather forecasting is growing. As we delve deeper into the near-Earth space environment, its mysteries multiply, fueling increased academic interest. Key research areas include understanding the dynamics of massive solar flares, giant magnetic storms, and their potential impacts on contemporary society. 
+
+I wote a book [Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather), targeting graduate students and researchers seeking a comprehensive overview of the underlying physics, datasets on complex space weather phenomena, historical event case studies, the latest advancements in simulation research, forecasting challenges, and the potential ramifications for future lunar and Mars exploration.
 
 [Chapter 1 - Introduction to space weather](https://www.sciencedirect.com/science/article/abs/pii/B978012822537000003X)
 -----

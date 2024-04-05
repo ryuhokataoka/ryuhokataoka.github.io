@@ -11,27 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Tohoku University, 2004
+* M.S. in Physics, Tohoku University, 2001
+* B.S. in Physics, Tohoku University, 1999
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2013 to present: Associate Professor
+  * National Institute of Polar Research, Japan
+  * Duties includes: PIs and teaching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2009 to June 2013: Designated Assistant Professor
+  * Tokyo Institute of Technology, Japan
+  * Duties includes: Research on mass extinctions
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* April 2007 to July 2009: Special Postdoctoral Researcher
+  * RIKEN, Japan
+  * Duties included: Own research (MHD code development)
+  * Supervisor: Dr. Toshikazu Ebisuzaki
+
+* April 2004 to March 2007: JSPS Postoctoral Researcher
+  * NICT, NASA/GSFC, and Nagoya University
+  * Duties included: Own research (Space weather)
+  * Supervisor: Prof. Takashi Kikuchi
+
+* April 2001 to March 2004: JSPS DC1 Researcher
+  * Tohoku University
+  * Duties included: Own research (Dayside aurora)
+  * Supervisor: Prof. Hiroshi Fukunishi
+
 Skills
 ======
 * Skill 1
@@ -61,4 +69,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently PI for two projects (auroraX and AI emulator)

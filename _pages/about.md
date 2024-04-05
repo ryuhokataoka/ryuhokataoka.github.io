@@ -39,4 +39,4 @@ Projects
 Currently working on:
 * AuroraXcosmic project ([AJ1007](https://polaris.nipr.ac.jp/~aurorax/))
 * AI-emulator project (KAKENHI 24H00277)
-* Space weather of ISS/CALET (KAKENHI)
+* Space weather team of ISS/CALET

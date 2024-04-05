@@ -40,6 +40,7 @@ Work experience
   * Duties included: Own research (Dayside aurora)
   * Supervisor: Prof. Hiroshi Fukunishi
 
+[](
 Skills
 ======
 * Skill 1
@@ -48,6 +49,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+)
 
 Publications
 ======
@@ -55,7 +57,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+[](
+  Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -66,7 +69,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+)
+
 Service and leadership
 ======
+* JpGU Space Weather and Space Climate session convener from 2015
 * Currently PI for two projects (auroraX and AI emulator)

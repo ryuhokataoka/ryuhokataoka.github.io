@@ -74,4 +74,4 @@ Teaching
 Service and leadership
 ======
 * JpGU Space Weather and Space Climate session convener from 2015
-* Currently PI for two projects (auroraX and AI emulator)
+* Currently PIs for AuroraX project and AI emulator project

@@ -31,7 +31,7 @@ Private companies in the USA have started space trips in July 2021. China is ope
 
 Projects
 ======
-Currently working as:
-* The PI of auroraXcosmic project ([AJ1007](https://polaris.nipr.ac.jp/~aurorax/))
-* The PI of the AI-emulator project (KAKENHI 24H00277)
-* Collaborator of ISS/CALET (KAKENHI)
+Currently working on:
+* AuroraXcosmic project ([AJ1007](https://polaris.nipr.ac.jp/~aurorax/))
+* AI-emulator project (KAKENHI 24H00277)
+* Space weather of ISS/CALET (KAKENHI)

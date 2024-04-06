@@ -6,7 +6,7 @@ excerpt: 'This paper shows the CAELT GeV e+p measurement (GCR solar modulation) 
 date: 2023-05-23
 venue: 'Physical Review Letters'
 paperurl: 'https://doi.org/10.1103/PhysRevLett.130.211001'
-citation: 'Adriani, O. et al. (CALET Collaboration) (2023). &quot;Charge-Sign Dependent Cosmic-Ray Modulation Observed with the Calorimetric Electron Telescope on the International Space Station&quot; <i>Studies in Japanese Literature and Culture</i>. 130, 211001'
+citation: 'Adriani, O. et al. (CALET Collaboration) (2023). &quot;Charge-Sign Dependent Cosmic-Ray Modulation Observed with the Calorimetric Electron Telescope on the International Space Station&quot; <i>Physical Review Letters</i>. 130, 211001'
 ---
 
 We present the observation of a charge-sign dependent solar modulation of galactic cosmic rays (GCRs) with the Calorimetric Electron Telescope onboard the International Space Station over 6 yr, corresponding to the positive polarity of the solar magnetic field. The observed variation of proton count rate is consistent with the neutron monitor count rate, validating our methods for determining the proton count rate. It is observed by the Calorimetric Electron Telescope that both GCR electron and proton count rates at the same average rigidity vary in anticorrelation with the tilt angle of the heliospheric current sheet, while the amplitude of the variation is significantly larger in the electron count rate than in the proton count rate. We show that this observed charge-sign dependence is reproduced by a numerical “drift model” of the GCR transport in the heliosphere. This is a clear signature of the drift effect on the long-term solar modulation observed with a single detector.

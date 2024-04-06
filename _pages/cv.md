@@ -72,4 +72,5 @@ Teaching
 Service and leadership
 ======
 * JpGU Space Weather and Space Climate session convener from 2015
+* ISSI workshop about auroral physics in 2018 (dozen review papers)
 * Currently PIs for AuroraX project and AI emulator project

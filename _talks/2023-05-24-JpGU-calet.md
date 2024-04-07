@@ -2,7 +2,7 @@
 title: "Cause and Effects of Relativistic Electron Precipitation at CALET onboard ISS"
 collection: talks
 type: "Poster"
-permalink: /talks/2023-05-24-JpGU-calet.md
+permalink: /talks/2023-05-24-JpGU-calet
 venue: "JpGU 2023"
 date: 2023-05-24
 location: "Makuhari"

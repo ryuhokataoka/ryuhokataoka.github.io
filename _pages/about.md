@@ -46,8 +46,6 @@ News Releases
 
 * 2024/02/21 [Researchers leverage machine learning to improve space weather predictions](https://www.eurekalert.org/news-releases/1035524)
 
-* 2022/07/18 [Japanese aurora scientist wrote “Extreme Space Weather” textbook for graduate students and researchers](https://www.eurekalert.org/news-releases/959176)
-
 * 2021/10/14 [Twelfth century literature and space-age data help map 3,000 years of auroras](https://www.eurekalert.org/news-releases/931549)
 
 * 2020/04/02 [1,400-year-old mystery of strange 'red sign' in Japan's sky solved](https://www.space.com/japan-sky-lights-mystery-red-aurora.html)

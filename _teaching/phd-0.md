@@ -2,7 +2,7 @@
 title: "Supervising PhD student (Yoko Fukuda)"
 collection: teaching
 type: "PhD course"
-permalink: /teaching/phd
+permalink: /teaching/phd0
 venue: "University of Tokyo (Visiting Fellow at NIPR)"
 date: 2016-10-31
 location: "Tokyo, Japan"

@@ -40,6 +40,24 @@ Work experience
   * Duties included: Own research (dayside aurora)
   * Supervisor: Prof. Hiroshi Fukunishi
 
+* July 2000 to September 2004: Visiting Researcher
+  * Bell Labs, Lucent Technologies
+  * Supervisor: Dr. Louis Lanzerotti
+
+* September 1999 to November 1999: Visiting Researcher
+  * Bell Labs, Lucent Technologies
+  * Supervisor: Dr. Louis Lanzerotti
+
+Awards
+======
+* Tanakadate Award, SGEPSS, November 2024
+* Excellence in Refereeing, GRL, AGU, April 2016
+* The MEXT Young Scientists' Prize, April 2015
+* Excellence in Refereeing, Space Weather, AGU, September 2011
+* Obayashi Award, SGEPSS, September 2009
+* President's Award, Tohoku University, March 2004
+* Outstanding Student Paper Award, AGU Fall Meeting, December 1999
+
 <!--
 Skills
 ======

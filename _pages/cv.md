@@ -44,7 +44,7 @@ Work experience
   * Bell Labs, Lucent Technologies
   * Supervisor: Dr. Louis Lanzerotti
 
-* September 1999 to November 1999: Visiting Researcher
+* September 1999 to November 1999: Visiting Researcher 
   * Bell Labs, Lucent Technologies
   * Supervisor: Dr. Louis Lanzerotti
 

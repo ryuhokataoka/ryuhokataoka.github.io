@@ -9,6 +9,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Test1"
+    url: /test1/    
+
 #  - title: "Portfolio"
 #    url: /portfolio/
         

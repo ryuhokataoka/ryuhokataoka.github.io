@@ -19,7 +19,7 @@ Work experience
 ======
 * July 2013 to present: Associate Professor
   * National Institute of Polar Research, Japan
-  * Duties includes: PIs and teaching
+  * Duties includes: PIs and teaching (SOKENADAI)
 
 * August 2009 to June 2013: Designated Assistant Professor
   * Tokyo Institute of Technology, Japan

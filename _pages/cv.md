@@ -40,7 +40,7 @@ Work experience
   * Duties included: Own research (dayside aurora)
   * Supervisor: Prof. Hiroshi Fukunishi
 
-* July 2000 to September 2004: Visiting Researcher
+* July 2000 to September 2000: Visiting Researcher
   * Bell Labs, Lucent Technologies
   * Supervisor: Dr. Louis Lanzerotti
 

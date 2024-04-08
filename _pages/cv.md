@@ -21,7 +21,7 @@ Work experience
   * National Institute of Polar Research, Japan
   * Duties includes: PIs and teaching (SOKENADAI)
 
-* August 2009 to June 2013: Designated Assistant Professor
+* August 2009 to June 2013: Assistant Professor
   * Tokyo Institute of Technology, Japan
   * Duties includes: Research on mass extinctions
 

@@ -11,52 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, Tohoku University, 2004
-* M.S. in Physics, Tohoku University, 2001
-* B.S. in Physics, Tohoku University, 1999
+* Ph.D in Physics, Tohoku University, 2004/03
+* M.S. in Physics, Tohoku University, 2001/03
+* B.S. in Physics, Tohoku University, 1999/03
 
 Work experience
 ======
-* July 2013 to present: Associate Professor
+* 2013/07 to present: Associate Professor
   * National Institute of Polar Research, Japan
   * Duties includes: PIs and teaching (SOKENADAI)
 
-* August 2009 to June 2013: Assistant Professor
+* 2009/08~2013/06: Assistant Professor
   * Tokyo Institute of Technology, Japan
   * Duties includes: Research on mass extinctions
 
-* April 2007 to July 2009: Special Postdoctoral Researcher
+* 2007/04~2009/07: Special Postdoctoral Researcher
   * RIKEN, Japan
   * Duties included: Own research (MHD code development)
   * Supervisor: Dr. Toshikazu Ebisuzaki
 
-* April 2004 to March 2007: JSPS Postoctoral Researcher
+* 2004/04~2007/03: JSPS Postoctoral Researcher
   * NICT, NASA/GSFC, and Nagoya University
   * Duties included: Own research (space weather)
   * Supervisor: Prof. Takashi Kikuchi
 
-* April 2001 to March 2004: JSPS DC1 Researcher
+* 2001/04~2004/03: JSPS DC1 Researcher
   * Tohoku University
   * Duties included: Own research (dayside aurora)
   * Supervisor: Prof. Hiroshi Fukunishi
 
-* July 2000 to September 2000: Visiting Researcher
+* 2000/07~2000/09: Visiting Researcher
   * Bell Labs, Lucent Technologies
   * Supervisor: Dr. Louis Lanzerotti
 
-* September 1999 to November 1999: Visiting Researcher 
+* 1999/09~1999/11: Visiting Researcher 
   * Bell Labs, Lucent Technologies
   * Supervisor: Dr. Louis Lanzerotti
 
 Awards
 ======
-* Tanakadate Award, SGEPSS, November 2024
-* Excellence in Refereeing, GRL, AGU, April 2016
-* The MEXT Young Scientists' Prize, April 2015
-* Excellence in Refereeing, Space Weather, AGU, September 2011
-* Obayashi Award, SGEPSS, September 2009
-* President's Award, Tohoku University, March 2004
-* Outstanding Student Paper Award, AGU Fall Meeting, December 1999
+* 2024/11: Tanakadate Award, SGEPSS
+* 2016/04: Excellence in Refereeing, GRL, AGU
+* 2015/04: The MEXT Young Scientists' Prize
+* 2011/09: Excellence in Refereeing, Space Weather, AGU
+* 2009/09: Obayashi Award, SGEPSS
+* 2004/03: President's Award, Tohoku University
+* 1999/12: Outstanding Student Paper Award, AGU Fall Meeting
 
 <!--
 Skills

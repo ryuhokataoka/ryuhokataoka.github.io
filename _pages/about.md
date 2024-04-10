@@ -13,6 +13,7 @@ As a space scientist, I wote a book "[Extreme Space Weather](https://www.science
 
 Extreme Space Weather
 =====
+<img src="/images/xswfront.jpg" width="25%"> <img src="/images/xswback.jpg" width="25%">
 
 [Chapter 1 - Introduction to space weather](https://www.sciencedirect.com/science/article/abs/pii/B978012822537000003X)
 -----

@@ -33,7 +33,7 @@ Forecasting flares and magnetic storms are separately working in different time 
 
 [Chapter 5 - Toward the Moon and Mars](https://www.sciencedirect.com/science/article/pii/B9780128225370000041)
 -----
-Private companies in the USA have started space trips in July 2021. China is operating a new space station at LEO. NASA is planning to build a Moon-orbiting space station called Gateway. They are also planning to build space colonies on the Moon and Mars. The Moon and Mars are the extreme space environment. On the Moon and Mars and during the deep-space cruising to these astronomical objects, SEP and GCR are the most relevant space weather and space climate, respectively, because of the significant radiation dose to human body and electronics.
+Private companies in the USA have started space trips in July 2021. China is operating a new space station at LEO (low-Earth orbit). NASA is planning to build a Moon-orbiting space station called Gateway. They are also planning to build space colonies on the Moon and Mars. The Moon and Mars are the extreme space environment. On the Moon and Mars and during the deep-space cruising to these astronomical objects, solar energetic particles and galactic cosmic rays are the most relevant space weather and space climate, respectively, because of the significant radiation dose to human body and electronics.
 
 Projects
 ======

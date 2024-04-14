@@ -37,7 +37,7 @@ Private companies in the USA have started space trips in July 2021. China is ope
 
 Auroral Physics
 =====
-
+<img src="/images/auroralphysics.jpg" width="25%"> <img src="/images/xswback.jpg" width="25%">
 
 Projects
 ======

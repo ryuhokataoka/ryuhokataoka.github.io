@@ -11,7 +11,7 @@ Modern society has relied heavily on advanced technologies such as satellites an
 
 As a researcher of space physics, I wote a book "[Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather)" (2022), targeting graduate students and researchers seeking a comprehensive overview of the underlying physics, datasets on complex space weather phenomena, historical event case studies, the latest advancements in simulation research, forecasting challenges, and the potential ramifications for future lunar and Mars exploration.
 
-As a researcher of aurora, we held the ISSI workshop held in 2018 at Bern. The purpose of the ISSI workshop was to review our current scientific understanding of the terrestrial aurora. The book "[Auroral Physics](https://link.springer.com/book/9789402421217)" (2021) is the collection of eleven [review papers](https://link.springer.com/journal/11214/topicalCollection/AC_bf357171e13838efc1938f9b16404a80/page/1) detailing theoretical and observational aspects of characteristic auroral morphologies changing according to local time, latitude, and activity level. 
+As a researcher of aurora, we held the ISSI workshop in 2018. The purpose of the ISSI workshop was to review our current scientific understanding of the terrestrial aurora. The book "[Auroral Physics](https://link.springer.com/book/9789402421217)" (2021) is a collection of eleven [review papers](https://link.springer.com/journal/11214/topicalCollection/AC_bf357171e13838efc1938f9b16404a80/page/1) detailing theoretical and observational aspects of characteristic auroral morphologies changing according to local time, latitude, and activity level. 
 
 Extreme Space Weather
 =====

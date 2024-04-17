@@ -19,11 +19,11 @@ Work experience
 ======
 * 2013/07 to present: Associate Professor
   * National Institute of Polar Research, Japan
-  * Duties includes: PIs and teaching (SOKENADAI)
+  * Duties included: PIs and teaching (SOKENADAI)
 
 * 2009/08~2013/06: Assistant Professor
   * Tokyo Institute of Technology, Japan
-  * Duties includes: Research on mass extinctions
+  * Duties included: Research on mass extinction
 
 * 2007/04~2009/07: Special Postdoctoral Researcher
   * RIKEN, Japan
@@ -89,6 +89,7 @@ Teaching
 
 Service and leadership
 ======
-* JpGU Space Weather and Space Climate session convener from 2015
-* ISSI workshop about auroral physics in 2018 (dozen review papers)
-* Currently PIs for AuroraX project and AI emulator project
+* JpGU Space Weather and Space Climate session convener since 2015
+* ISSI workshop convener of auroral physics in 2018
+* PI of AuroraX project (2022-2027)
+* PI of AI emulator project (2024-2027)

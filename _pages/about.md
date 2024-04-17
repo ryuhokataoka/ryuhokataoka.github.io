@@ -11,7 +11,7 @@ Modern society has relied heavily on advanced technologies such as satellites an
 
 As a researcher of space physics, I wote a book "[Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather)" (2022), targeting graduate students and researchers seeking a comprehensive overview of the underlying physics, datasets on complex space weather phenomena, historical event studies, the latest advancements in simulation research, forecasting challenges, and the potential ramifications for future lunar and Mars exploration.
 
-As a researcher of aurora, we held the ISSI workshop in 2018. The purpose of the ISSI workshop was to review our current scientific understanding of the terrestrial aurora. The book "[Auroral Physics](https://link.springer.com/book/9789402421217)" (2021) is a collection of eleven [review papers](https://link.springer.com/journal/11214/topicalCollection/AC_bf357171e13838efc1938f9b16404a80/page/1) detailing theoretical and observational aspects of characteristic auroral morphologies changing according to local time, latitude, and activity level. 
+We held the international workshop at Bern in 2018 to review our current scientific understanding of the terrestrial aurora. The book "[Auroral Physics](https://link.springer.com/book/9789402421217)" (2021) is a collection of [review papers](https://link.springer.com/journal/11214/topicalCollection/AC_bf357171e13838efc1938f9b16404a80/page/1) detailing theoretical and observational aspects of characteristic auroral morphologies changing with local time, latitude, and activity level. 
 
 Extreme Space Weather
 =====
@@ -42,6 +42,10 @@ Auroral Physics
 <img src="/images/auroralphysics.jpg" width="25%"> 
 
 Popular descriptions often attribute the aurora to the interaction of charged particles from the solar wind with atoms in the upper atmosphere. In fact, most auroras are not the result of direct entry of solar wind particles. Rather, as detailed in this volume, auroral particle acceleration and generation of auroral forms occur primarily within the magnetosphere. Importantly, many key aspects of the aurora -- most notably, the physical mechanisms responsible for the generation of discrete arcs -- are still unexplained, and auroral physics continues to be an active area of scientific research. Each review chapter therefore includes a summary of open questions for further investigation. Providing the first comprehensive review of the terrestrial aurora in two decades, this book will aid both active researchers and newcomers interested in understanding the current state of the field.
+
+[Small-scale dynamic aurora](https://link.springer.com/article/10.1007/s11214-021-00796-w)
+----
+Small-scale dynamic auroras have spatial scales of a few km or less, and temporal scales of a few seconds or less, which visualize the complex interplay among charged particles, Alfvén waves, and plasma instabilities working in the magnetosphere-ionosphere coupled regions. We summarize the observed properties of flickering auroras, vortex motions, and filamentary structures. We also summarize the development of fundamental theories, such as dispersive Alfvén waves (DAWs), plasma instabilities in the auroral acceleration region, ionospheric feedback instabilities (IFI), and the ionospheric Alfvén resonator (IAR).
 
 Projects
 ======

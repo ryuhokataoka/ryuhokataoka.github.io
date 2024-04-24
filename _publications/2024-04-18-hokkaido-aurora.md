@@ -1,5 +1,5 @@
 ---
-title: "Magnetic storm-time red aurora as seen from Hokkaido, Japan on December 1, 2023 associated with high-density solar wind (in production)"
+title: "Magnetic storm-time red aurora as seen from Hokkaido, Japan on December 1, 2023 associated with high-density solar wind (In Production)"
 collection: publications
 permalink: /publication/2024-04-18-hokkaido-aurora
 excerpt: 'This paper discussed the cause of unusually bright red aurora as witnessed from Hokkaido Japan in Dec 2023.'

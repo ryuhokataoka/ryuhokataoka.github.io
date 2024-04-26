@@ -28,7 +28,7 @@ Books
 Notes
 ====
 * CALET paper submitted to GRL (HCS and REP)
-* Hosokawa Polar Rain paper, Tanaka NBZ paper is coming
-* https://sr.rois.ac.jp/en/article/sr/019.html
+* Hosokaw-san Polar Rain paper
+* Tanaka-sensei NBZ paper is coming
 
 

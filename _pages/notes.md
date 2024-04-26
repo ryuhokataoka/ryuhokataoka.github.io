@@ -21,14 +21,14 @@ Books
 * 『オーロラみつけた』、ジャムハウス、2019
 * 『オーロラの日本史』、平凡社、2019
 * 『日本に現れたオーロラの謎』、化学同人、2020
-* Auroral Physics, Space Science Series of ISSI, 78, 2022
+* Auroral Physics, Space Science Series of ISSI, 78, 2021
 * Extreme Space Weather, Elsevier, 2022
 
  
 Notes
 ====
 * CALET paper submitted to GRL (HCS and REP)
-* Hosokawa paper is coming
+* Hosokawa Polar Rain paper, Tanaka NBZ paper is coming
 * https://sr.rois.ac.jp/en/article/sr/019.html
 
 

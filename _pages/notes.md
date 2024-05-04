@@ -9,7 +9,14 @@ Area of expertise
 ----
 Space sciences/Space weather/Auroras
 
-Profile
+Notes
+----
+* CALET paper submitted to GRL (HCS and REP)
+* Hosokaw-san Polar Rain paper
+* Tanaka-sensei NBZ paper is coming
+
+
+略歴
 ====
 1976年、宮城県仙台市生まれ。2004年、東北大学大学院 理学研究科博士課程修了。博士（理学）。情報通信研究機構、NASAゴダード宇宙飛行センター、名古屋大学 太陽地球環境研究所で学振特別研究員、理化学研究所 基礎科学特別研究員、東京工業大学 理学研究流動機構 特任助教を経て、現在、国立極地研究所 先端研究推進系 准教授。専門は宇宙空間物理学。2015年、文部科学大臣表彰 若手科学者賞受賞。著書に『オーロラ！』、『宇宙災害』、『日本に現れたオーロラの謎』、『Extreme Space Weather』などがある。
 
@@ -53,7 +60,7 @@ Profile
 
 委員
 ====
-* 2014/03 Editorial Advisory Board, Space Weather
+* 2011/08-2014/03 Editorial Advisory Board, Space Weather
 * 2011/10-2015/09 Science Discipline Representatives of SCOSTEP
 * 2013/11-2015/07 Guest Editor, Extreme Space Weather Special Issue, Earth, Planets and Space
 * 2014/04-2016/03 総研大 学融合推進センター運営委員会委員
@@ -70,23 +77,24 @@ Profile
 * 2021/04-2024/03 国文学研究資料館 古典籍共同研究事業センター事業実施委員会委員
 * 2022/04-2024/03 NISTEP専門調査員
 
+所属学会
+====
+1999/12-現在 American Geophysical Union
+2001/04-現在 地球電磁気・地球惑星圏学会
+2004/04-現在 日本天文学会
+2017/10-現在 計測自動制御学会
+
 Books
 ====
-* 『オーロラ！』, 岩波科学ライブラリー, 岩波書店, 2015年10月7日.
-* 『宇宙災害』, DOJIN選書, 化学同人, 2016年11月30日.
-* 『太陽フレアと宇宙災害』, NHKラジオ講座テキスト, NHK出版, 2018年1月.
+* Extreme Space Weather, Elsevier, 2022
+* Auroral Physics, Space Science Series of ISSI, 78, 2021
+* 『日本に現れたオーロラの謎』, DOJIN選書, 化学同人, 2020年10月31日.
 * 『オーロラみつけた』, ジャムハウス, 2019年5月. (共著)
 * 『オーロラの日本史』, 平凡社, 2019年3月. (共著) 
-* 『日本に現れたオーロラの謎』, DOJIN選書, 化学同人, 2020年10月31日.
-* Auroral Physics, Space Science Series of ISSI, 78, 2021
-* Extreme Space Weather, Elsevier, 2022
+* 『太陽フレアと宇宙災害』, NHKラジオ講座テキスト, NHK出版, 2018年1月.
+* 『宇宙災害』, DOJIN選書, 化学同人, 2016年11月30日.
+* 『オーロラ！』, 岩波科学ライブラリー, 岩波書店, 2015年10月7日.
  
-Notes
-====
-* CALET paper submitted to GRL (HCS and REP)
-* Hosokaw-san Polar Rain paper
-* Tanaka-sensei NBZ paper is coming
-
 その他
 ====
 1. 片岡龍峰, 山本和明, 藤原康徳, 塩見こずえ, 國分亙彦, 雉尾攷―日本書紀にみる赤気に関する一考察, 総研大文化科学研究, 2020年.

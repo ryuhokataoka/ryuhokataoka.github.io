@@ -23,9 +23,11 @@ Notes
 連絡先
 ----
 * 所在地：〒190-8518 立川市緑町10-3 国立極地研究所
+* National Institute of Polar Research, 10-3 Midori-cho, Tachikawa, Tokyo 190-8518, JAPAN
 * 電話：042-512-0631
 * email: kataoka.ryuho@nipr.ac.jp
 * 情報・システム研究機構＞国立極地研究所＞先端研究推進系（2022までは研究教育系）＞宙空圏研究グループ
+* ROIS/NIPR/Division for Advanced Research Promotion/Space and Atmospheric Sciences Group
 
 学歴
 ----
@@ -45,7 +47,7 @@ Notes
 * 2013/07-現在 総合研究大学院大学, 准教授（兼任）
 * 2016/06-2016/07 武蔵野美術大学, 特別講師（兼業）
 * 2021/09-2022/03 沖縄科学技術大学院大学, Visiting Researcher（サバティカル研修）
-* 2023/04-現在 東京大学大学院地球惑星科学専攻, 流動講座准教授（兼業）
+* 2023/04-現在 東京大学大学院地球惑星科学専攻, [流動講座准教授](https://www.eps.s.u-tokyo.ac.jp/member/#index_id4)（兼業）
 
 受賞
 ----

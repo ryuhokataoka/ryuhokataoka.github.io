@@ -13,7 +13,6 @@ Notes
 ----
 * CALET paper submitted to GRL (HCS and REP)
 * Hosokaw-san Polar Rain paper
-* Tanaka-sensei NBZ paper is coming
 
 
 略歴

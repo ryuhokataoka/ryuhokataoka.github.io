@@ -18,17 +18,17 @@ Tanakadate Award
 
 <img src="/images/DSC_6502.JPG" width="40%"> 
 
-The [Tanakadate Award](https://www.sgepss.org/en/awards/tanakadate.html) recognizes a Society of Geomagnetism and Earth, Planetary and Space Sciences (SGEPSS) member for outstanding scientific achievements with a certificate and a medal. On 2024/5/30, RK received the Tanakadate Award with the title of __"Study on the Cause of Largest Magnetic Storms"__.
+The [Tanakadate Award](https://www.sgepss.org/en/awards/tanakadate.html) recognizes a Society of Geomagnetism and Earth, Planetary and Space Sciences (SGEPSS) member for outstanding scientific achievements with a certificate and a medal. On 2024/5/30, RK received the Tanakadate Award with the title of __"Study on the cause of largest magnetic storms"__.
 
 
 Related papers are: 
 * [Probability of occurrence of extreme magnetic storms](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/swe.20044)
 * [Extreme geomagnetic activities: A statistical study](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-020-01261-8)
 * [Historical space weather monitoring of prolonged aurora activities in Japan and in China](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016SW001493)
-* [Inclined Zenith Aurora over Kyoto on 17 September 1770: Graphical Evidence of Extreme Magnetic Storm](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017SW001690)
+* [Inclined zenith aurora over Kyoto on 17 September 1770: Graphical evidence of extreme magnetic storm](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017SW001690)
 * [Three-dimensional MHD modeling of the solar wind structures associated with 13 December 2006 coronal mass ejection](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009JA014167)
 * [Pileup accident hypothesis of magnetic storm on 17 March 2015](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015GL064816)
-* [Reconstructing Solar Wind Profiles Associated With Extreme Magnetic Storms: A Machine Learning Approach](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL096275)
+* [Reconstructing solar wind profiles associated with extreme magnetic storms: A machine learning approach](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL096275)
 
 Extreme Space Weather
 =====

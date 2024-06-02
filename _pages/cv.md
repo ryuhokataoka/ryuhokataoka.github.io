@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* 2023/04 to present: External Associate Professor
+  * The University of Tokyo, Japan
+  * Duties included: Teaching
+
 * 2013/07 to present: Associate Professor
   * National Institute of Polar Research, Japan
   * Duties included: PIs and teaching (SOKENADAI)

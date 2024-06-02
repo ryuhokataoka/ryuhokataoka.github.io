@@ -13,12 +13,12 @@ As a researcher of space physics, I wote a book "[Extreme Space Weather](https:/
 
 We held the international workshop at Bern in 2018 to review our current scientific understanding of the terrestrial aurora. The book "[Auroral Physics](https://link.springer.com/book/9789402421217)" (2021) is a collection of [review papers](https://link.springer.com/journal/11214/topicalCollection/AC_bf357171e13838efc1938f9b16404a80/page/1) detailing theoretical and observational aspects of characteristic auroral morphologies changing with local time, latitude, and activity level. 
 
-Tanakadate Award
+[Tanakadate Award](https://www.sgepss.org/en/awards/tanakadate.html)
 ====
 
 <img src="/images/DSC_6502.JPG" width="40%"> 
 
-The [Tanakadate Award](https://www.sgepss.org/en/awards/tanakadate.html) recognizes a Society of Geomagnetism and Earth, Planetary and Space Sciences (SGEPSS) member for outstanding scientific achievements with a certificate and a medal. RK's __"Study on the cause of largest magnetic storms"__ was awarded in May 2024.
+RK's __"Study on the cause of largest magnetic storms"__ was awarded in May 2024.
 
 Related works include: 
 * 100-year magnetic storms of Kakioka Magnetic Observatory ([paper 1](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/swe.20044), [paper2](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-020-01261-8))

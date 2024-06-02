@@ -73,13 +73,13 @@ Skills
 * Skill 3
 -->
 
-Publications
+Recent Publications (2023~)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  Talks
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

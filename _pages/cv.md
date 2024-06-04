@@ -73,13 +73,15 @@ Skills
 * Skill 3
 -->
 
-Recent Publications (2023~)
+Recent Publications (listed ater 2023 only)
 ======
-  <ul>{% for post in site.publications reversed %}
+The list of publications before 2023 is <a href='https://ryuhokataoka.github.io/files/publication2023b.pdf'>here (PDF file)</a>
+
+<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks (listed after 2023 only)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

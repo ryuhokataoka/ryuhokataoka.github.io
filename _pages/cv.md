@@ -54,7 +54,7 @@ Work experience
 
 Awards
 ======
-* 2024/11: Tanakadate Award, SGEPSS
+* 2024/05: Tanakadate Award, SGEPSS
 * 2016/04: Excellence in Refereeing, GRL, AGU
 * 2015/04: The MEXT Young Scientists' Prize
 * 2011/09: Excellence in Refereeing, Space Weather, AGU

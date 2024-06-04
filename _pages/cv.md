@@ -81,7 +81,7 @@ The list of publications before 2023 is <a href='https://ryuhokataoka.github.io/
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks (listed after 2023 only)
+Recent Talks (listed after 2023 only)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

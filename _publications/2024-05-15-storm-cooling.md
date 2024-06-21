@@ -6,7 +6,7 @@ excerpt: 'This paper discussed the cooling of the thermosphere during magnetic s
 date: 2024-05-15
 venue: 'Frontiers in Astronomy and Space Sciences'
 paperurl: 'https://doi.org/10.3389/fspas.2024.1273079'
-citation: 'Bag T, Kataoka R, Ogawa Y, Fujiwara H, Li Z, Singh V, Sivakumar V, Sridharan S, Pirnaris P and Tourgaidis T (2024). &quot;Thermospheric nitric oxide energy budget during extreme geomagnetic storms: a comparative study; <i>Front. Astron. Space Sci.</i>. 11:1273079.'
+citation: 'Bag T, Kataoka R, Ogawa Y, Fujiwara H, Li Z, Singh V, Sivakumar V, Sridharan S, Pirnaris P and Tourgaidis T (2024). &quot;Thermospheric nitric oxide energy budget during extreme geomagnetic storms: a comparative study &quot; <i>Front. Astron. Space Sci.</i>. 11:1273079.'
 ---
 
 We selected three superstorms (disturbance storm time [Dst] index less than -350 nT) 

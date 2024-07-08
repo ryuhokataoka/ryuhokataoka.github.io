@@ -11,8 +11,11 @@ Space sciences/Space weather/Auroras
 
 Notes
 ----
-* CALET paper submitted to GRL (HCS and REP)
-* Hosokaw-san Polar Rain paper
+* Citizen science paper submitted
+* Munakata paper submitted
+* https://note.com/ryuhokataoka/n/n09993886b100
+* https://note.com/ryuhokataoka/n/n2c7a8a367a88
+* https://note.com/ryuhokataoka/n/n54bf43ca8f20
 
 
 略歴

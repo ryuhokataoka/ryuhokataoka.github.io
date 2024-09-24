@@ -7,7 +7,9 @@ author_profile: true
 
 国際学会
 ----
-1. Kataoka, R., and Y. Ebihara, Introductin of AuroraXcosmic project, GEOSCOPR Workshop - Geospace Exploration and Observation with Scientific COllaboration in Polar Regions, towards IPY 2032, October 18, 2023 (online)
+1. Kataoka, R., space weather session - AI emulator and citizen science, and panel discussion, AGU Fall Meeting 2024
+1. Kataoka, R., space weather talk - citizen science, JpGU 2024 
+1. Kataoka, R., space weather poster - AI emulator project, JpGU 2024 (poster)
 1. Kataoka, R., CALET SW team, URSI GASS 2023, Aug. 2023 (invited)
 1. Kataoka, R., Dayside small-scale dynamic auroras: A review and a future collaborative plan, AGU fall 2022. (Invited)
 1. Kataoka, R. et al., Big data publishing of high speed auroral imager, NIPR Symposium, Nov. 16, 2022 (online).
@@ -115,6 +117,8 @@ author_profile: true
 
 国内学会
 ----
+1. 片岡龍峰, 市民科学, データ科学セッション, 2024 SGEPSS（招待講演）
+1. 片岡龍峰, 5月磁気嵐と8月磁気嵐のオーロラ比較, 磁気嵐特別セッション, 2024 SGEPSS（招待講演）
 1. 片岡龍峰, オーロラ電流系予測エミュレータの開発, 人工知能学会, 2023/6/8（招待講演）
 1. 片岡龍峰, 中平聡, 鳥居正二, ISS搭載CALETによるRelativistic Electron Precipitationの研究とデータ公開, 宇宙科学シンポジウム, 2023/1/5-6（オンライン, poster）
 1. 片岡龍峰, 宇宙天気研究と機械学習の現状や今後の展望, 第152回 地球電磁気･地球惑星圏学会 総会・講演会（2022年 秋学会）, 2022年11月3-7日.（オンライン, 招待講演）

@@ -1,5 +1,5 @@
 ---
-title: "Vast magenta aurora"
+title: "Extended magenta aurora as revealed by citizen science"
 collection: publications
 permalink: /publication/2024-10-03-magenta-aurora
 excerpt: 'Accepted paper'

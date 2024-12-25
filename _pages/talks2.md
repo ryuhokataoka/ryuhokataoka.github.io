@@ -7,7 +7,11 @@ author_profile: true
 
 国際学会
 ----
-1. Kataoka, R., space weather session - AI emulator and citizen science, and panel discussion, AGU Fall Meeting 2024
+1. Kataoka, R. et al., space weather session - AI emulator and citizen science, and panel discussion (invited), AGU Fall Meeting 2024
+1. Kataoka, R. et al., AI emulator and data assimilation of auroral current system, NIPR symposium 2024
+1. Kataoka, R., Magnetic storm-time auroras as seen from Japan, SGEPSS 2024 (invited)
+1. Kataoka, R. et al., Citizen science of storm-time aurora in Japan, SGEPSS 2024 (invited)
+1. Kataoka, R., Development of all-sky camera network over Antarctica, SGEPSS 2024 
 1. Kataoka, R., space weather talk - citizen science, JpGU 2024 
 1. Kataoka, R., space weather poster - AI emulator project, JpGU 2024 (poster)
 1. Kataoka, R., CALET SW team, URSI GASS 2023, Aug. 2023 (invited)

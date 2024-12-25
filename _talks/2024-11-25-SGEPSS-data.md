@@ -1,12 +1,14 @@
 ---
 title: "Citizen science of storm-time aurora in Japan"
-collection: Invited talks
+collection: talks
 type: "Oral"
 permalink: /talks/2024-11-25-SGEPSS-data
 venue: "SGESPSS 2024"
 date: 2024-11-25
 location: "Tachikawa, Japan"
 ---
+
+This is invited talk.
 
 Citizen science of storm-time aurora in Japan 
 #Ryuho Kataoka1,4, Sachin Reddy1, Shinya Nakano2, Joshua Pettit3, Yuki Nakamura4

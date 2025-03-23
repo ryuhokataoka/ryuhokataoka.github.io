@@ -17,11 +17,15 @@ Education
 
 Work experience
 ======
+* 2025/04 to present: Science and Technology Associate
+  * Okinawa Institute of Science and Technology
+  * Duties included: Own research
+
 * 2023/04 to present: External Associate Professor
   * The University of Tokyo, Japan
   * Duties included: Teaching
 
-* 2013/07 to present: Associate Professor
+* 2013/07 to 2025/03: Associate Professor
   * National Institute of Polar Research, Japan
   * Duties included: PIs and teaching (SOKENADAI)
 

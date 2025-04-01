@@ -24,11 +24,11 @@ author:
   avatar           : "rk2024apr.jpg"
   name             : "Ryuho Kataoka"
   pronouns         : # example: "he/his"  
-  bio              : "Associate Professor at National Institute of Polar Research/The University of Tokyo"
-  location         : "Tokyo, Japan"
-  employer         : "National Institute of Polar Research"
+  bio              : "Science and Technology Associate at Okinawa Institute of Science and Technology"
+  location         : "Okinawa, Japan"
+  employer         : "Okinawa Institute of Science and Technology"
   uri              : # URL
-  email            : "kataoka.ryuho@nipr.ac.jp" 
+  email            : "r.kataoka@oist.jp" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

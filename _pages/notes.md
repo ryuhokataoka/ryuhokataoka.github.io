@@ -23,7 +23,7 @@ Notes
 連絡先
 ----
 * 所在地：〒904-0495 沖縄研国頭郡恩納村字谷茶1919-1 沖縄科学技術大学院大学
-* Okinawa Institute of Science and Techonology, 1919-1 Tancha, Onna-son, Okinawa, 904-0495, Japan
+* Okinawa Institute of Science and Technology, 1919-1 Tancha, Onna-son, Okinawa, 904-0495, Japan
 * 電話：098-966-2291
 * email: r.kataoka@oist.jp
 

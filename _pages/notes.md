@@ -46,7 +46,7 @@ Notes
 * 2016/06-2016/07 武蔵野美術大学, 特別講師（兼業）
 * 2021/09-2022/03 沖縄科学技術大学院大学, Visiting Researcher（サバティカル研修）
 * 2023/04-現在 東京大学大学院地球惑星科学専攻, [流動講座准教授](https://www.eps.s.u-tokyo.ac.jp/member/#index_id4)（兼業）
-* 2025/04-現在 沖縄科学技術大学院大学, Science and Technology Associate
+* 2025/04-現在 沖縄科学技術大学院大学, 主幹研究員
 
 受賞
 ----

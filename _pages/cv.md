@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2025/04 to present: Science and Technology Associate
+* 2025/04 to present: Principal Research Scientist
   * Okinawa Institute of Science and Technology
   * Duties included: Own research
 

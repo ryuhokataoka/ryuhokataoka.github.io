@@ -21,6 +21,10 @@ Work experience
   * Okinawa Institute of Science and Technology
   * Duties included: Own research
 
+* 2026/04 to present: Visiting Professor
+  * National Institute of Polar Research, Japan
+  * Duties included: PI of AJ1007 Antarctic program
+
 * 2023/04 to present: External Associate Professor
   * The University of Tokyo, Japan
   * Duties included: Teaching
@@ -99,7 +103,8 @@ Teaching
 
 Service and leadership
 ======
-* JpGU Space Weather and Space Climate session convener since 2015
+* JpGU SWSC session convener since 2015
 * ISSI workshop convener of auroral physics in 2018
 * PI of AuroraX project (2022-2027)
 * PI of AI emulator project (2024-2027)
+* PI of Mars camera project (2026-2030)

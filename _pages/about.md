@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Modern society has relied heavily on advanced technologies such as satellites which are vulnerable to changes in space environment. Consequently, the importance of space weather forecasting is growing. As we explore deeper into the near-Earth space environment, its mysteries multiply, fueling increased academic interest. Key research areas include understanding the dynamics of massive solar flares, giant magnetic storms, and their potential impacts on contemporary society. 
+RK is working on Mars aurora camera at [OIST](https://www.oist.jp/ja/stg/ryuho-kataoka). 
+[](Modern society has relied on advanced technologies such as satellites which are vulnerable to changes in space environment. Consequently, the importance of space weather forecast is growing. As we explore deeper into the near-Earth space environment, its mysteries multiply, fueling increased academic interest. Key research areas include understanding the dynamics of massive solar flares, giant magnetic storms, and their potential impacts on contemporary society.)
 
 As a researcher of space physics, RK wrote a book "[Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather)" (2022), targeting graduate students and researchers in a hurry. This book gives an overview of the underlying physics, datasets on complex space weather phenomena, [historical event studies traveling back in time](https://sr.rois.ac.jp/en/article/sr/019.html), the latest advancements in simulation research, forecasting challenges, and the potential ramifications for future lunar and Mars exploration.
 
@@ -63,9 +64,10 @@ Small-scale dynamic auroras have spatial scales of a few km or less, and tempora
 Projects
 ======
 Currently working on:
-* AuroraXcosmic project ([AJ1007](https://polaris.nipr.ac.jp/~aurorax/))
-* AI-emulator project (KAKENHI 24H00277)
-* Space weather team of ISS/CALET
+* Mars camera project (SX-CRANE, 2026-2030)
+* Space weather team of ISS/CALET (2015-2030)
+* AI-emulator project (KAKENHI 24H00277, 2024-2027)
+* AuroraXcosmic project (JARE AJ1007, 2022-2027)
 
 News Releases
 ====

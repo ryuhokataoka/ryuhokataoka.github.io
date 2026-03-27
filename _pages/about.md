@@ -65,7 +65,7 @@ Small-scale dynamic auroras have spatial scales of a few km or less, and tempora
 
 Projects
 ======
-Currently working on:
+Currently working on as the PI:
 * Mars camera project (SX-CRANE, 2026-2030)
 * Space weather team of ISS/CALET (2015-2030)
 * AI-emulator project (KAKENHI 24H00277, 2024-2027)

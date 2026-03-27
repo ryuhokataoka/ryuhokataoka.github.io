@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-RK is working on Mars aurora camera at [OIST](https://www.oist.jp/ja/stg/ryuho-kataoka). 
+RK is working on Mars aurora camera at [OIST](https://www.oist.jp/ja/stg/ryuho-kataoka). Recent activities are summarized in 
+[FY2025 Report](https://www.oist.jp/sites/default/files/2026-03/FY2025_Kataoka_0.pdf). 
 <!--
 Modern society has relied on advanced technologies such as satellites which are vulnerable to changes in space environment. Consequently, the importance of space weather forecast is growing. As we explore deeper into the near-Earth space environment, its mysteries multiply, fueling increased academic interest. Key research areas include understanding the dynamics of massive solar flares, giant magnetic storms, and their potential impacts on contemporary society.
 -->

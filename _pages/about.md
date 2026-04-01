@@ -13,6 +13,18 @@ RK is working on Mars aurora camera at [OIST](https://www.oist.jp/ja/stg/ryuho-k
 Modern society has relied on advanced technologies such as satellites which are vulnerable to changes in space environment. Consequently, the importance of space weather forecast is growing. As we explore deeper into the near-Earth space environment, its mysteries multiply, fueling increased academic interest. Key research areas include understanding the dynamics of massive solar flares, giant magnetic storms, and their potential impacts on contemporary society.
 -->
 
+Projects
+======
+Currently working on as the PI:
+* Literature-science project (NIJL-DDH Collaboration, 2026-2027)
+* Mars camera project (SX-CRANE, 2026-2030)
+* ISS-CALET Space Weather (KAKENHI 24H00025, 2024-2029)
+* AI-emulator SMRAI project (KAKENHI 24H00277, 2024-2027)
+* AuroraXcosmic project (JARE AJ1007, 2022-2027)
+
+Books and others
+======
+
 As a researcher of space physics, RK wrote a book "[Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather)" (2022), targeting graduate students and researchers in a hurry. This book gives an overview of the underlying physics, datasets on complex space weather phenomena, [historical event studies traveling back in time](https://sr.rois.ac.jp/en/article/sr/019.html), the latest advancements in simulation research, forecasting challenges, and the potential ramifications for future lunar and Mars exploration.
 
 We held the international workshop at Bern in 2018 to review our current scientific understanding of the terrestrial aurora. The book "[Auroral Physics](https://link.springer.com/book/9789402421217)" (2021) is a collection of [review papers](https://link.springer.com/journal/11214/topicalCollection/AC_bf357171e13838efc1938f9b16404a80/page/1) detailing theoretical and observational aspects of characteristic auroral morphologies changing with local time, latitude, and activity level. 
@@ -63,14 +75,6 @@ Popular descriptions often attribute the aurora to the interaction of charged pa
 [Small-scale dynamic aurora](https://link.springer.com/article/10.1007/s11214-021-00796-w)
 ----
 Small-scale dynamic auroras have spatial scales of a few km or less, and temporal scales of a few seconds or less, which visualize the complex interplay among charged particles, Alfvén waves, and plasma instabilities working in the magnetosphere-ionosphere coupled regions. We summarize the observed properties of flickering auroras, vortex motions, and filamentary structures. We also summarize the development of fundamental theories, such as dispersive Alfvén waves (DAWs), plasma instabilities in the auroral acceleration region, ionospheric feedback instabilities (IFI), and the ionospheric Alfvén resonator (IAR).
-
-Projects
-======
-Currently working on as the PI:
-* Mars camera project (SX-CRANE, 2026-2030)
-* Space weather team of ISS/CALET (2015-2030)
-* AI-emulator project (KAKENHI 24H00277, 2024-2027)
-* AuroraXcosmic project (JARE AJ1007, 2022-2027)
 
 News Releases
 ====

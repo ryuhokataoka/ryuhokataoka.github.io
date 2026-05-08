@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-RK is working on Mars aurora camera at [OIST](https://www.oist.jp/ja/stg/ryuho-kataoka). Recent activities are summarized in 
+RK is working on Mars aurora camera at [OIST](https://www.oist.jp/ja/stg/ryuho-kataoka). Recent activities: 
 [FY2025 Report](https://www.oist.jp/sites/default/files/2026-03/FY2025_Kataoka_0.pdf). 
 <!--
 Modern society has relied on advanced technologies such as satellites which are vulnerable to changes in space environment. Consequently, the importance of space weather forecast is growing. As we explore deeper into the near-Earth space environment, its mysteries multiply, fueling increased academic interest. Key research areas include understanding the dynamics of massive solar flares, giant magnetic storms, and their potential impacts on contemporary society.
@@ -17,8 +17,8 @@ Projects
 ======
 Currently working on as the PI:
 * Literature-science project (NIJL-DDH Collaboration, 2026-2027)
-* Mars camera project (SX-CRANE, 2026-2030)
-* ISS-CALET Space Weather (KAKENHI 24H00025, 2024-2029)
+* Mars aurora camera project (SX-CRANE, 2026-2030)
+* ISS-CALET space weather team (KAKENHI 24H00025, 2024-2029)
 * AI-emulator SMRAI project (KAKENHI 24H00277, 2024-2027)
 * AuroraXcosmic project (JARE AJ1007, 2022-2027)
 

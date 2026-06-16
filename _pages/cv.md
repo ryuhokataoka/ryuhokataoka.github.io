@@ -21,6 +21,10 @@ Work experience
   * Okinawa Institute of Science and Technology
   * Duties included: Own research
 
+* 2026/06 to present: Senior Visiting Researcher
+  * Tokyo University, Research Center for Advanced Science and Technology, Japan
+  * Duties included: Mars camera project
+
 * 2026/04 to present: Visiting Professor
   * National Institute of Polar Research, Japan
   * Duties included: PI of AJ1007 Antarctic program

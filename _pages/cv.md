@@ -22,7 +22,7 @@ Work experience
   * Duties included: Own research
 
 * 2026/06 to present: Senior Visiting Researcher
-  * Tokyo University, Research Center for Advanced Science and Technology, Japan
+  * Research Center for Advanced Science and Technology, The University of Tokyo, Japan
   * Duties included: Mars camera project
 
 * 2026/04 to present: Visiting Professor

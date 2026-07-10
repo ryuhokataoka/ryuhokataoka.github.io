@@ -25,12 +25,12 @@ Currently working on as the PI:
 Books and others
 ======
 
-As a researcher of space physics, RK wrote a book "[Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather)" (2022), targeting graduate students and researchers in a hurry. This book gives an overview of the underlying physics, datasets on complex space weather phenomena, [historical event studies traveling back in time](https://sr.rois.ac.jp/en/article/sr/019.html), the latest advancements in simulation research, forecasting challenges, and the potential ramifications for future lunar and Mars exploration. After coming to OIST, RK wrote an updated and Japanese version of the same topic for general public [怖い宇宙 巨大太陽フレアと磁気嵐の脅威](https://www.amazon.co.jp/dp/4153400580). 
+As a researcher of space physics, RK wrote a book "[Extreme Space Weather](https://www.sciencedirect.com/book/9780128225370/extreme-space-weather)" (2022), targeting graduate students and researchers in a hurry. This book gives an overview of the underlying physics, datasets on complex space weather phenomena, [historical event studies traveling back in time](https://sr.rois.ac.jp/en/article/sr/019.html), the latest advancements in simulation research, forecasting challenges, and the potential ramifications for future lunar and Mars exploration. After coming to OIST, RK wrote an updated and Japanese version 『[怖い宇宙](https://www.amazon.co.jp/dp/4153400580)』(2026) for general public. 
 
 We held the international workshop at Bern in 2018 to review our current scientific understanding of the terrestrial aurora. The book "[Auroral Physics](https://link.springer.com/book/9789402421217)" (2021) is a collection of [review papers](https://link.springer.com/journal/11214/topicalCollection/AC_bf357171e13838efc1938f9b16404a80/page/1) detailing theoretical and observational aspects of characteristic auroral morphologies changing with local time, latitude, and activity level. 
 
 
-[怖い宇宙 巨大太陽フレアと磁気嵐の脅威](https://www.amazon.co.jp/dp/4153400580)
+[怖い宇宙](https://www.amazon.co.jp/dp/4153400580)
 =====
 <img src="/images/kowai.jpg" width="25%"> 
 

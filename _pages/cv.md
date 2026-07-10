@@ -66,6 +66,7 @@ Work experience
 
 Awards
 ======
+* 2026/06: Excellence in Refereeing, GRL, AGU
 * 2024/05: Tanakadate Award, SGEPSS
 * 2016/04: Excellence in Refereeing, GRL, AGU
 * 2015/04: The MEXT Young Scientists' Prize
